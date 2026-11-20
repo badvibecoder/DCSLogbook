@@ -1,0 +1,24 @@
+101 ICON "dcslogbook.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "FileDescription", "DCS Logbook"
+      VALUE "FileVersion", "1.0.0.0"
+      VALUE "ProductName", "DCS Logbook"
+      VALUE "ProductVersion", "1.0.0"
+      VALUE "OriginalFilename", "DCSLogbook.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END

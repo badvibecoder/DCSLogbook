@@ -1,0 +1,14 @@
+ARCHIVE/
+build/
+dist/
+data/
+DCSLogbookData/
+testdata/
+testdata2/
+demodata/
+assets/*.res
+*.exe
+*.zip
+*.bmp
+*.png
+!docs/*.png
